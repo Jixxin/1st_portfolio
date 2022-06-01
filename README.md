@@ -10,7 +10,7 @@ This is my 1st portfolio. It showcases a variety of HTML and CSS usage. Applicat
 - [Contact](#contact)
 
 ## Installation
-You can access the deployed link in my gitHub. Or, if you wish to install the code, just right click the index.html in vscode and select "open in default browser" to view it. 
+You can access the deployed link at https://jixxin.github.io/1st_portfolio/. Or, if you wish to install the code, just right click the index.html in vscode and select "open in default browser" to view it. 
 
 ## Contribution
 Project created by Jeff Hicks
